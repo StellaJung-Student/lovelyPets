@@ -1,15 +1,3 @@
-/********************************************************************************* 
-*
-* WEB222 – Assignment #4a
-*
-* I declare that this assignment is my own work in accordance with Seneca 
-* Academic Policy. No part of this assignment has been copied manually or 
-* electronically from any other source (including web sites) or distributed to 
-* other students. 
-* 
-* Name: __Stella (Sung Ok) Jung__ Student ID: _131566176__ Date: __2018/07/14__ 
-* 
-********************************************************************************/
 var filterType = ""; // sets the filter type to "" (will later be dog, cat or bird)
 var filterAgeMin = 0; // sets the filter age min to 0 (for no minimum age filter)
 var filterAgeMax = Number.MAX_VALUE; // sets the filter age max to the largest number possible (for no maximum age filter)
